@@ -24,3 +24,14 @@ body {
   width: 2rem;
   font-size: large; 
 }
+
+.search{
+ padding: 5px;
+ padding-left: 15px;
+
+}
+
+.search input{
+  padding: 15px;
+  border-radius: 10px;
+}
