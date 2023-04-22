@@ -11,7 +11,7 @@ const Home = () => {
 
   const getCardData = async () => {
     const res = await fetch(
-      `https://catfact.ninja/facts?page=${page}&limit=3`
+      `https://catfact.ninja/facts?page=${page}&limit=6`
 
 
     );
